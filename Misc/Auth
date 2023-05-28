@@ -1,0 +1,2 @@
+curl -d '{ "apikey" : "36c9f726-f256-4581-9a90-7742b9f2436c" }' https://zadania.aidevs.pl/token/helloapi
+
